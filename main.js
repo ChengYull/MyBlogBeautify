@@ -153,7 +153,7 @@
 				})
 				$('.chinese-font').css('display', 'none')
 			});
-			<!--离开页面改变title-->
+			//<!--离开页面改变title-->
 			var time;
 			var normar_title = document.title;
 			document.addEventListener('visibilitychange', function () {
@@ -240,10 +240,10 @@
 		 */
 		buildCustomElements() {
 			// Change page title.
-			const blogTitle = $(this.cnblogs.blogTitle).find('h1 a').html();
-			const autherName = $(this.cnblogs.publicProfile).find('a:eq(0)').html();
-			let $title = $('head').find('title');
-			$title.html($title.html().replace(`春原庄的雪 | ${autherName}`, `${blogTitle}`));
+			// const blogTitle = $(this.cnblogs.blogTitle).find('h1 a').html();
+			// const autherName = $(this.cnblogs.publicProfile).find('a:eq(0)').html();
+			// let $title = $('head').find('title');
+			// $title.html($title.html().replace(`春原庄的雪 | ${autherName}`, `${blogTitle}`));
 
 			// Build a tags button on navbar.
 			let $navList = $(this.cnblogs.navList);
