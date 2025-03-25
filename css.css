@@ -82,7 +82,7 @@ body {
 }
 
 body::before {
-    background: url(https://img2018.cnblogs.com/blog/1646268/201907/1646268-20190709145111387-899901278.jpg) center/cover no-repeat;
+    background: url(https://img2018.cnblogs.com/blog/1646268/201908/1646268-20190806114008215-138720377.jpg) center/cover no-repeat;
 }
 
 body:before {
@@ -772,12 +772,12 @@ a:hover {
 
 .esa-toolbar .esa-toolbar-gotop {
     background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABkAAAAZCAYAAADE6YVjAAACL0lEQVRIS+3TwWvTUBwH8O/vJSLrFBURFPSkoIiCVz3IilObFA/aNR0yEEk6EXfxH1D0L5DdyroMHaJL1a1Ikw3H6kVBHHjyIKKgMEQmbOqsTpv8JOkmna4mvQyRvVv4/fL78L7vPcIKLFoBA6tIUyn/e3H1F+xjYB4B8EyGp53RTkxF2VLkneQLTieYBwmQ/cEMfgsJh41U8k0YFAnJW3YPAb2Afxv5CZj2gdAK8BQgjuia8uJvUCiSt+wrBFxaGOJ8WYeTsQr2kscTAG1k5g+eJLV1dySeN4IaIsxMpuXkQMjW4kFh55aW0/F4vOp/D9wZ2+N67gQB25h5RmJx/Gyn8nQ5aFmk17bXtn7mGyDSAoBh6ppiEBHXDzFvje3wpADaxcAcGAkjoz76HfoDyVkPNsj44QA4GDQzrukZ9WKjKK7fG99crX4vA9gP8FePhJpNKw/r+5cgfXft7cLFOIDdCxFdNjT1atjt6S8W12NeHgXoEAPzgEgZWqK0+N8vZMAqHfAAB6CtzOwBlDUyqhkGLNYt63HLJ8zaBLQxUCWQpmvKsF8PEHNotN0jt0igGBjfIHBKT6t+ZE0t/yxjc3yfQEcBdplEl5FWblOfZWcE+CZAEgMfSXC73pGcbGp6XXMuN7lG3vR+GKBkcGeIz1N+qDRIRF1RH1YUvFwuy6+nKyM1iGepluVMtytJ1rlU4l2UIVF6fOjVdOUCs3gZ+uKjDAzrWUXCElpS/3/i+gn3gM6tu0xSdwAAAABJRU5ErkJggg==);
-    diplay: none !important;
+    display: none !important;
 }
 
 .esa-toolbar .esa-toolbar-contents {
     background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABkAAAAZCAYAAADE6YVjAAAAuUlEQVRIS2NkoANgpIMdDPSxZO6qbQeQffOf+X98SrD3w0WLdnL/5vi7lRo+ZZy7att/ZIMYGRi0k8K8rs1ctZufheH3B6pYMnv1dgdkg/5x/DmV7uv7bdWqVcwfGXltqWIJNQwhZAZ9Ip6QK6ghP4x8Mnfl1gaUJMzIODUpzOv1pG3b2Lk//6+kSnDRJZ/QxSfUCA5CZgyj1EXIq9SQp09w0aUUpk8+oUelRY2IJWQGfSKekCuoIQ8At39XNxqN1mQAAAAASUVORK5CYII=);
-    diplay: none !important;
+    display: none !important;
 }
 
 .esa-toolbar .esa-toolbar-follow {
